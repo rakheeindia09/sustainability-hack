@@ -26,5 +26,3 @@ Feedback and Iteration: Continuously monitor the system's performance and gather
 
 By implementing these steps, we created a smart energy management system for electric roads that efficiently utilizes solar energy, incorporates Azure's powerful data analysis capabilities, and integrates with Microsoft Smart Energy Management for enhanced features and optimization.
 
-Google drive link for demo video of the project:
-https://drive.google.com/file/d/1zshGPH-DJP-WgeIUmPRKLJnDTOg_NIb2/view?usp=sharing
