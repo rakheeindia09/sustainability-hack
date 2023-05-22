@@ -1,3 +1,5 @@
+Demo Video googledrive Link -- https://drive.google.com/drive/folders/1w8gGC21cv7-8qZnlyzCPRingVXlTaNds
+
 The idea is to have electric roads as escalators using solar energy which would help reduce air pollution to a great extent which will also reduce the cost of building roads every time helping the government public sector domain. Hopefully Once the air pollution is reduced slowly the climatic conditions will get back to it's normal state with respect to summer, rainy, winter seasons which as of now has changed a lot.
 
 Hackathon submission To have smart energy management for electric roads using solar energy to charge vehicles, while incorporating Azure and MSM (Microsoft Smart Energy Management), we follow these steps for our project:
