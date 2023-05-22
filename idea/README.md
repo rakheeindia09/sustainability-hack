@@ -24,3 +24,6 @@ To have smart energy management for electric roads using solar energy to charge 
 10. Feedback and Iteration: Continuously monitor the system's performance and gather feedback to refine the algorithms and improve energy management efficiency. Use the insights gained from data analysis to optimize charging schedules, maximize solar energy utilization, and enhance overall energy management.
 
 By implementing these steps, we created a smart energy management system for electric roads that efficiently utilizes solar energy, incorporates Azure's powerful data analysis capabilities, and integrates with Microsoft Smart Energy Management for enhanced features and optimization.
+
+Google drive link for demo video of the project:
+https://drive.google.com/file/d/1zshGPH-DJP-WgeIUmPRKLJnDTOg_NIb2/view?usp=sharing
